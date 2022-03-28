@@ -1,0 +1,1 @@
+# aws_beanstalk_php_with_dynamodb_sns
